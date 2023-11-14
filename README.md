@@ -1,5 +1,5 @@
 # MVCV2
-tbl_FABRICANTE
+tbl_fabricante
 
 ![image](https://github.com/JonatanMVJ/UIII_Act-2_MVC_v2_tbl_fabricante/assets/143743615/2033d9b0-fa0d-4d2e-b8a3-b4c7e583af18)
 ![image](https://github.com/JonatanMVJ/UIII_Act-2_MVC_v2_tbl_fabricante/assets/143743615/f69e520c-d8e9-4123-8710-8cd3d0c8ec00)
